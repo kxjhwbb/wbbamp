@@ -1,4 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>WBBamp works!</title>
+</head>
 <h1>WBBamp运行正常</h1>
 <pre>
 ==WBBamp各组件版本==
