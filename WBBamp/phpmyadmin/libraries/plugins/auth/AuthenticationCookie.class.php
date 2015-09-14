@@ -212,13 +212,13 @@ class AuthenticationCookie extends AuthenticationPlugin
             echo '<div class="item">
                 <label for="input_username">' . __('Username:') . '</label>
                 <input type="text" name="pma_username" id="input_username" '
-                . 'value="root" size="24"'
+                . 'value="" size="24"'
                 . ' class="textfield"/>
             </div>
             <div class="item">
                 <label for="input_password">' . __('Password:') . '</label>
                 <input type="password" name="pma_password" id="input_password"'
-                . ' value="hiwbb" size="24" class="textfield" />
+                . ' value="" size="24" class="textfield" />
             </div>';
         if (count($GLOBALS['cfg']['Servers']) > 1) {
             echo '<div class="item">
