@@ -1,4 +1,7 @@
 @echo off
+echo ==================================
+echo ª∂”≠ π”√WBBamp, ∑¥¿°≤©øÕhiwbb.com
+echo ==================================
 echo …±À¿httpd...
 taskkill /F /IM wbb_httpd.exe
 echo …±À¿mysqld...
